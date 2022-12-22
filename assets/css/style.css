@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* Removed redundancy for benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +103,7 @@ p {
     max-width: 150px;
 }
 
+/* Remove redundancy for the content section */
 .content-sections {
     margin-bottom: 20px;
     padding: 50px;
